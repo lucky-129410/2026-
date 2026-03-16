@@ -18,7 +18,7 @@ my_list3 = []
 for i in range(k):
     my_list3.append([])
 
-for i in range(1):
+for i in range(count):
     for j in range(number):
         min_distance = float('inf')
         min_index = -1
